@@ -1,4 +1,13 @@
-# SoloTravel-documentation
+# SoloTravel
 
-## Architecture
-![baseArchitecture](https://user-images.githubusercontent.com/21241862/134755894-6a9ae499-ea99-491f-8646-3d91e124951d.png)
+**SoloTravel es el sitio web pensado para viajeros que buscan probar la experiencia de viajar en grupo y para aquellas agencias que ofrecen este tipo de experiencias.**
+
+---
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Documentación
+- Wiki
+- Sprint Actual
+- [Proyecto Backend](https://github.com/nicoruiz/SoloTravel-WebApp)
+- [Proyecto Frontend](https://github.com/FranSpinelli/SoloTravel-backend)
