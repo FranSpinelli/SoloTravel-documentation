@@ -1,6 +1,6 @@
 # SoloTravel
 
-**SoloTravel es el sitio web pensado para viajeros que buscan probar la experiencia de viajar en grupo y para aquellas agencias que ofrecen este tipo de experiencias.**
+**SoloTravel es el sitio web pensado para viajeros que buscan probar la experiencia de viajar en grupo y para aquellas agencias que trabajan con este tipo de experiencias.**
 
 ---
 
