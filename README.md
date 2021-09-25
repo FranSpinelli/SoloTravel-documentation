@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Documentación
-- Wiki
+- [Wiki](https://github.com/FranSpinelli/SoloTravel-documentation/wiki)
 - Sprint Actual
 - [Proyecto Backend](https://github.com/nicoruiz/SoloTravel-WebApp)
 - [Proyecto Frontend](https://github.com/FranSpinelli/SoloTravel-backend)
