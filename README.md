@@ -5,6 +5,7 @@
 ---
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Build Status](https://app.travis-ci.com/FranSpinelli/SoloTravel-backend.svg?branch=main)](https://app.travis-ci.com/FranSpinelli/SoloTravel-backend)
 
 ## Documentación
 - [Wiki](https://github.com/FranSpinelli/SoloTravel-documentation/wiki)
