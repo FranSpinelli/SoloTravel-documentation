@@ -8,6 +8,5 @@
 
 ## Documentación
 - [Wiki](https://github.com/FranSpinelli/SoloTravel-documentation/wiki)
-- [Sprint Actual](https://github.com/FranSpinelli/SoloTravel-documentation/wiki/Prueba-de-Concepto)
 - [Proyecto Backend](https://github.com/nicoruiz/SoloTravel-WebApp)
 - [Proyecto Frontend](https://github.com/FranSpinelli/SoloTravel-backend)
